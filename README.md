@@ -4,20 +4,6 @@ This is the **frontend** of a Real-time News Alerts application built using **Re
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Setup & Installation](#setup--installation)
-- [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
-- [Folder Structure](#folder-structure)
-- [Real-time News Alerts](#real-time-news-alerts)
-- [Deployment](#deployment)
-- [License](#license)
-
----
-
 ## Features
 
 ### News Alerts System
