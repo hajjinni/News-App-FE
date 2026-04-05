@@ -39,7 +39,7 @@ export function useSocket(onNewsAlert, onDigestReady) {
       socket.disconnect();
       socketRef.current = null;
     };
-  }, [user]);
+  }, [user, onNewsAlert, onDigestReady]);
 
   return socketRef.current;
 }
